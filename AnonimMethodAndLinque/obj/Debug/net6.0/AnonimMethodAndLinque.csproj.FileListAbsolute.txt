@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\bin\Debug\net6.0\AnonimMethodAndLinque.exe
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\bin\Debug\net6.0\AnonimMethodAndLinque.deps.json
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\bin\Debug\net6.0\AnonimMethodAndLinque.runtimeconfig.json
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\bin\Debug\net6.0\AnonimMethodAndLinque.dll
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\bin\Debug\net6.0\AnonimMethodAndLinque.pdb
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.AssemblyInfo.cs
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.dll
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\refint\AnonimMethodAndLinque.dll
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.pdb
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\AnonimMethodAndLinque.genruntimeconfig.cache
+C:\Users\user\source\repos\AnonimMethodAndLinque\AnonimMethodAndLinque\obj\Debug\net6.0\ref\AnonimMethodAndLinque.dll
